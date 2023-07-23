@@ -1,4 +1,4 @@
-### Hi there 👋
+### [Hi there 👋](https://beriholic.xyz)
 
 **A student who loves programming and terminals**
 
