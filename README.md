@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**A student who loves programming and terminals**
+**A student who loves programming and Linux**
 
 _<u>永远年轻，永远热泪盈眶</u>_
 
