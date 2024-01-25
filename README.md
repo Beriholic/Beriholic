@@ -16,7 +16,7 @@ _<u>永远年轻，永远热泪盈眶</u>_
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,go,neovim,docker,linux,github,idea,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,go,rust,neovim" />
   </a>
 </p>
 
