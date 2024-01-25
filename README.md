@@ -1,6 +1,6 @@
 ### [Hi there 👋](https://beriholic.xyz)
 
-**A student who loves programming and terminals**
+**Just a programming enthusiast, not a professional programmer**
 
 _<u>永远年轻，永远热泪盈眶</u>_
 
