@@ -21,6 +21,3 @@ _<u>永远年轻，永远热泪盈眶</u>_
 
 <details>
 
-<summary><samp><b>&#9776; See more details</b></samp></summary>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Beriholic" /> </div>
-</details>
