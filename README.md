@@ -2,7 +2,7 @@
 
 **Just a programming enthusiast, not a professional programmer**
 
-_<u>永远年轻，永远热泪盈眶</u>_
+_<u>想你所想，做你想做</u>_
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beriholic/Beriholic/output/github-contribution-grid-snake-dark.svg">
