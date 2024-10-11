@@ -2,7 +2,7 @@
 
 **Just a programming enthusiast, not a professional programmer**
 
-_<u>想你所想，做你想做</u>_
+_<u>无限进步</u>_
 
 ## Languages & Tools
 
