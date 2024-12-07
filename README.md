@@ -2,7 +2,7 @@
 
 **Just a programming enthusiast, not a professional programmer**
 
-_<u>无限进步</u>_
+_<u>自然赠予你，树冠微风，肩头的暴雨，片刻后生成，平衡忠诚，不息的身体。</u>_
 
 ## Languages & Tools
 
