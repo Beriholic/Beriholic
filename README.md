@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,go,java,kotlin,react,nix,linux" />
+    <img src="https://skillicons.dev/icons?i=neovim,go,java,kotlin,rust,react,nix,linux" />
   </a>
 </p>
 
