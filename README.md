@@ -1,6 +1,6 @@
 **A programming enthusiast**
 
-> Can sun-scorched remnants of discarded timber ignite into dancing flames, only to transmute into weightless ashes riding the wind?
+> We must still fall in love with life’s abundance and generosity, even when the years deceive us with barrenness and harshness.
 
 ## Languages & Tools
 
